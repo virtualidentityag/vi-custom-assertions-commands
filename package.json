@@ -1,0 +1,15 @@
+{
+  "name": "vi-custom-assertions-commands",
+  "version": "0.0.1",
+  "description": "Contains Nightwatchjs custom commands and assertions for selenium testing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hummelch/vi-custom-assertions-commands"
+  },
+  "author": "Virutal Identity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hummelch/vi-custom-assertions-commands/issues"
+  },
+  "homepage": "https://github.com/hummelch/vi-custom-assertions-commands"
+}
