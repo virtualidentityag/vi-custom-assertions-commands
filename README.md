@@ -6,7 +6,7 @@ Contains Nightwatchjs custom commands and assertions.
 ### How to install
 
 ```
-npm install https://github.com/virtualidentityag/vi-custom-assertions-commands.git --save-dev
+npm install git+https://github.com/virtualidentityag/vi-custom-assertions-commands.git#master --save-dev
 ```
 
 open the nightwatch.json file and edit the `custom_assertions_path` like this:
@@ -16,6 +16,7 @@ open the nightwatch.json file and edit the `custom_assertions_path` like this:
 	//... 
 	
 	"custom_assertions_path" : "node_modules/vi-custom-assertions-commands/assertions",
+	"custom_assertions_path" : "node_modules/vi-custom-assertions-commands/commands,
 	
 	//... 
 }
