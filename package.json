@@ -1,6 +1,6 @@
 {
   "name": "vi-custom-assertions-commands",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Contains Nightwatchjs custom commands and assertions for selenium testing",
   "repository": {
     "type": "git",
