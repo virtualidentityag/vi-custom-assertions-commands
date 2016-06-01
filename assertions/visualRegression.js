@@ -91,7 +91,6 @@ var compareToBaseline = function(screenshotFile, callback, globalCallback){
                 // Save a reference to the relative screenshot path for later use
                 data.screenshotFile = screenshotFile;
 
-				console.log('1');
 				// Call callback
                 callback.call(this, data);
             }
